@@ -1,0 +1,9 @@
+﻿  game.cpp
+c:\users\joseph\documents\visual studio 2015\projects\asteroid\asteroid\game.cpp(81): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\joseph\documents\visual studio 2015\projects\asteroid\asteroid\game.cpp(105): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\joseph\documents\visual studio 2015\projects\asteroid\asteroid\game.cpp(129): error C2059: syntax error: ')'
+c:\users\joseph\documents\visual studio 2015\projects\asteroid\asteroid\game.cpp(225): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating Code...
+  Compiling...
+  main.cpp
+  Generating Code...
